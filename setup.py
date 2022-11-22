@@ -11,7 +11,7 @@ DESCRIPTION = 'A zero-dependency DBus library for Python with asyncio support'
 REQUIRES_PYTHON = '>=3.6.0'
 
 # What packages are required for this module to be executed?
-REQUIRED = []
+REQUIRED = ["contextvars"]
 
 # What packages are optional?
 EXTRAS = {}
